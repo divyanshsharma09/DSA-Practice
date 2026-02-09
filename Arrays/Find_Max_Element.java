@@ -1,9 +1,12 @@
 /*
 Problem: Find Maximum Element in Array
+Platform: Self Practice
 Approach: Traverse array and compare values
 Time Complexity: O(n)
 Space Complexity: O(1)
+Author: Divyansh Sharma
 */
+
 import java.util.Scanner;
 
 public class maximum {
