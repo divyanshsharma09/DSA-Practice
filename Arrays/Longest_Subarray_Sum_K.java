@@ -5,7 +5,7 @@ Approach:
     Shrink window if sum becomes greater than K
 Time Complexity: O(n)
 Space Complexity: O(1)
-Author Divyansh Sharma
+Author: Divyansh Sharma
 */
 
 import java.util.Scanner;
